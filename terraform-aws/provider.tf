@@ -19,6 +19,6 @@ provider "kubernetes" {
 
 terraform {
   backend "s3" {
-    encrypt = true
+    encrypt = false
   }
 }
