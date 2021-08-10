@@ -4,3 +4,4 @@ pr_status_thresholds:
   high: 999
   medium: 999
   low: 999
+terraform_enabled: false
