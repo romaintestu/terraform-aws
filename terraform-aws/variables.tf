@@ -13,7 +13,7 @@ variable "availability_zone2b" {
 }
 
 variable "aws_secret_key" {
-   default = "AVPS7S34GH"
+   default = "AVPS7S34GHI"
    description = "AWS Secret key"
 }
 
